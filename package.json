@@ -1,0 +1,15 @@
+{
+  "name": "express-app-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:erikkrieg/express-app-template.git",
+  "author": "Erik Krieg <erik.c.krieg@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "~13.9.0",
+    "yarn": "~1.22.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
